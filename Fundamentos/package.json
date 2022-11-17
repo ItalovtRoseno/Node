@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "tutorial de fodase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItalovtRoseno/Node.git"
+  },
+  "author": "italo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItalovtRoseno/Node/issues"
+  },
+  "homepage": "https://github.com/ItalovtRoseno/Node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
